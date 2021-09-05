@@ -1,6 +1,6 @@
-.. _welcome:
+.. _welcome::
 
-Welcome
+Welcome:::
 *******
 
 Workshop Conventions
